@@ -9,13 +9,13 @@ Console Command: npm install soundcloud-search-node
 
 #ussage:
 Example:
-'''node
+```node
 var scSearch = require('soundcloud-search-node');
 scSearch.getTracks("Avicii", 10, function callback(tracks){
   for(var i = 0; i < tracks.length; i++){
       console.log(tracks[i].genre);
   }
 });
-'''
+```
 
 
