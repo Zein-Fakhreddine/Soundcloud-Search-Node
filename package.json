@@ -1,0 +1,29 @@
+{
+  "name": "soundcloud-search-node",
+  "version": "1.0.0",
+  "description": "Gets tracks that match a search name given by the username from the Soundcloud database",
+  "main": "Search.js",
+  "dependencies": {
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zein-Fakhreddine/Soundcloud-Search-Node.git"
+  },
+  "keywords": [
+    "soundcloud",
+	"soundcloud search",
+	"search",
+	"Music Search"
+  ],
+  "author": "Zein Fakhreddine <Zein.Fakhreddine@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zein-Fakhreddine/Soundcloud-Search-Node/issues"
+  },
+  "homepage": "https://github.com/Zein-Fakhreddine/Soundcloud-Search-Node#readme"
+}
